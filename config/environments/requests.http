@@ -6,9 +6,9 @@ POST http://localhost:3000/items.json
 Content-Type: application/json
 
 {
-"name": "test name",
-"price": 50,
-"description": "ok",
+"name": "Basic IKEA floor lamp",
+"price": 90,
+"description": "It is just ok. ",
 "voltage": 59
 }
 
